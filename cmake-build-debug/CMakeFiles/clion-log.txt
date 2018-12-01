@@ -1,4 +1,0 @@
-/home/eric/clion-2018.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/eric/GitRepos/MiShell-Jackson
--- Configuring done
--- Generating done
--- Build files have been written to: /home/eric/GitRepos/MiShell-Jackson/cmake-build-debug
